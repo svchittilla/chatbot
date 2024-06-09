@@ -1,0 +1,1094 @@
+[
+  {
+    "id" : "aatrox",
+    "key": "1",
+    "role": "top",
+    "name" : "Aatrox",
+    "op.gg" : "https://www.op.gg/champions/aatrox/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "ahri",
+    "key": "2",
+    "role": "mid",
+    "name" : "Ahri",
+    "op.gg" : "https://www.op.gg/champions/ahri/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "akali",
+    "key": "3",
+    "role": "mid",
+    "name" : "Akali",
+    "op.gg" : "https://www.op.gg/champions/akali/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "akshan",
+    "key": "4",
+    "role": "mid",
+    "name" : "Akshan",
+    "op.gg" : "https://www.op.gg/champions/akshan/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "alistar",
+    "key": "5",
+    "role": "support",
+    "name" : "Alistar",
+    "op.gg" : "https://www.op.gg/champions/alistar/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "amumu",
+    "key": "6",
+    "role": "jungle",
+    "name" : "Amumu",
+    "op.gg" : "https://www.op.gg/champions/amumu/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "anivia",
+    "key": "7",
+    "role": "mid",
+    "name" : "Anivia",
+    "op.gg" : "https://www.op.gg/champions/anivia/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "annie",
+    "key": "8",
+    "role": "mid",
+    "name" : "Annie",
+    "op.gg" : "https://www.op.gg/champions/annie/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "aphelios",
+    "key": "9",
+    "role": "bot",
+    "name" : "Aphelios",
+    "op.gg" : "https://www.op.gg/champions/aphelios/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "ashe",
+    "key": "10",
+    "role": "bot",
+    "name" : "Ashe",
+    "op.gg" : "https://www.op.gg/champions/ashe/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "aurelion sol",
+    "key": "11",
+    "role": "mid",
+    "name" : "Aurelion Sol",
+    "op.gg" : "https://www.op.gg/champions/aurelionsol/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "azir",
+    "key": "12",
+    "role": "mid",
+    "name" : "Azir",
+    "op.gg" : "https://www.op.gg/champions/azir/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "bard",
+    "key": "13",
+    "role": "support",
+    "name" : "Bard",
+    "op.gg" : "https://www.op.gg/champions/bard/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "belveth",
+    "key": "14",
+    "role": "jungle",
+    "name" : "Bel'Velth",
+    "op.gg" : "https://www.op.gg/champions/belveth/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "blitzcrank",
+    "key": "15",
+    "role": "support",
+    "name" : "Blitzcrank",
+    "op.gg" : "https://www.op.gg/champions/blitzcrank/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "brand",
+    "key": "16",
+    "role": "support",
+    "name" : "Brand",
+    "op.gg" : "https://www.op.gg/champions/brand/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "braum",
+    "key": "17",
+    "role": "support",
+    "name" : "Braum",
+    "op.gg" : "https://www.op.gg/champions/braum/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "briar",
+    "key": "18",
+    "role": "jungle",
+    "name" : "Briar",
+    "op.gg" : "https://www.op.gg/champions/briar/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "caitlyn",
+    "key": "19",
+    "role": "bot",
+    "name" : "Caitlyn",
+    "op.gg" : "https://www.op.gg/champions/caitlyn/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "camille",
+    "key": "20",
+    "role": "top",
+    "name" : "Camille",
+    "op.gg" : "https://www.op.gg/champions/camille/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "cassiopeia",
+    "key": "21",
+    "role": "mid",
+    "name" : "Cassiopeia",
+    "op.gg" : "https://www.op.gg/champions/cassiopeia/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "chogath",
+    "key": "22",
+    "role": "top",
+    "name" : "Cho'Gath",
+    "op.gg" : "https://www.op.gg/champions/chogath/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "corki",
+    "key": "23",
+    "role": "mid",
+    "name" : "Corki",
+    "op.gg" : "https://www.op.gg/champions/corki/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "darius",
+    "key": "24",
+    "role": "top",
+    "name" : "Darius",
+    "op.gg" : "https://www.op.gg/champions/darius/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "diana",
+    "key": "25",
+    "role": "jungle",
+    "name" : "Diana",
+    "op.gg" : "https://www.op.gg/champions/diana/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "dr.mundo",
+    "key": "26",
+    "role": "top",
+    "name" : "Dr.Mundo",
+    "op.gg" : "https://www.op.gg/champions/drmundo/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "draven",
+    "key": "27",
+    "role": "bot",
+    "name" : "Draven",
+    "op.gg" : "https://www.op.gg/champions/draven/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "elise",
+    "key": "28",
+    "role": "jungle",
+    "name" : "Elise",
+    "op.gg" : "https://www.op.gg/champions/elise/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "evelynn",
+    "key": "29",
+    "role": "jungle",
+    "name" : "Evelynn",
+    "op.gg" : "https://www.op.gg/champions/evelynn/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "ezreal",
+    "key": "30",
+    "role": "bot",
+    "name" : "Ezreal",
+    "op.gg" : "https://www.op.gg/champions/ezreal/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "fiddlesticks",
+    "key": "31",
+    "role": "jugle",
+    "name" : "Fiddlesticks",
+    "op.gg" : "https://www.op.gg/champions/fiddlesticks/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "fiora",
+    "key": "32",
+    "role": "top",
+    "name" : "Fiora",
+    "op.gg" : "https://www.op.gg/champions/fiora/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "fizz",
+    "key": "33",
+    "role": "mid",
+    "name" : "Fizz",
+    "op.gg" : "https://www.op.gg/champions/fizz/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "galio",
+    "key": "34",
+    "role": "mid",
+    "name" : "Galio",
+    "op.gg" : "https://www.op.gg/champions/galio/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "gangplank",
+    "key": "35",
+    "role": "top",
+    "name" : "Gangplank",
+    "op.gg" : "https://www.op.gg/champions/gangplank/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "garen",
+    "key": "36",
+    "role": "top",
+    "name" : "Garen",
+    "op.gg" : "https://www.op.gg/champions/garen/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "gnar",
+    "key": "37",
+    "role": "top",
+    "name" : "Gnar",
+    "op.gg" : "https://www.op.gg/champions/gnar/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "gragas",
+    "key": "38",
+    "role": "jungle",
+    "name" : "Gragas",
+    "op.gg" : "https://www.op.gg/champions/gragas/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "gwen",
+    "key": "39",
+    "role": "top",
+    "name" : "Gwen",
+    "op.gg" : "https://www.op.gg/champions/gwen/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "hecarim",
+    "key": "40",
+    "role": "jungle",
+    "name" : "Hecarim",
+    "op.gg" : "https://www.op.gg/champions/hecarim/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "heimerdinger",
+    "key": "41",
+    "role": "support",
+    "name" : "Heimerdinger",
+    "op.gg" : "https://www.op.gg/champions/heimerdinger/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "illaoi",
+    "key": "42",
+    "role": "top",
+    "name" : "Illaoi",
+    "op.gg" : "https://www.op.gg/champions/illaoi/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "irelia",
+    "key": "43",
+    "role": "top",
+    "name" : "irelia",
+    "op.gg" : "https://www.op.gg/champions/irelia/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "ivern",
+    "key": "44",
+    "role": "janna",
+    "name" : "Ivern",
+    "op.gg" : "https://www.op.gg/champions/ivern/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "jarvan iv",
+    "key": "45",
+    "role": "jungle",
+    "name" : "Jarvan IV",
+    "op.gg" : "https://www.op.gg/champions/jarvaniv/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "jax",
+    "key": "46",
+    "role": "top",
+    "name" : "Jax",
+    "op.gg" : "https://www.op.gg/champions/jax/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "jayce",
+    "key": "47",
+    "role": "top",
+    "name" : "Jayce",
+    "op.gg" : "https://www.op.gg/champions/jayce/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "jhin",
+    "key": "48",
+    "role": "bot",
+    "name" : "Jhin",
+    "op.gg" : "https://www.op.gg/champions/jhin/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "jinx",
+    "key": "49",
+    "role": "bot",
+    "name" : "Jinx",
+    "op.gg" : "https://www.op.gg/champions/jinx/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "ksante",
+    "key": "50",
+    "role": "top",
+    "name" : "K'Sante",
+    "op.gg" : "https://www.op.gg/champions/ksante/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "kaisa",
+    "key": "51",
+    "role": "bot",
+    "name" : "Kai'Sa",
+    "op.gg" : "https://www.op.gg/champions/kaisa/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "kalista",
+    "key": "52",
+    "role": "bot",
+    "name" : "Kalista",
+    "op.gg" : "https://www.op.gg/champions/kalista/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "karma",
+    "key": "53",
+    "role": "support",
+    "name" : "Karma",
+    "op.gg" : "https://www.op.gg/champions/karma/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "karthus",
+    "key": "54",
+    "role": "jungle",
+    "name" : "Karthus",
+    "op.gg" : "https://www.op.gg/champions/karthus/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "kassadin",
+    "key": "55",
+    "role": "mid",
+    "name" : "Kassadin",
+    "op.gg" : "https://www.op.gg/champions/kassadin/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "katarina",
+    "key": "56",
+    "role": "mid",
+    "name" : "Katarina",
+    "op.gg" : "https://www.op.gg/champions/katarina/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "kayle",
+    "key": "57",
+    "role": "top",
+    "name" : "Kayle",
+    "op.gg" : "https://www.op.gg/champions/kayle/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "kayn",
+    "key": "58",
+    "role": "jungle",
+    "name" : "Kayn",
+    "op.gg" : "https://www.op.gg/champions/kayn/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "kennen",
+    "key": "59",
+    "role": "top",
+    "name" : "Kennen",
+    "op.gg" : "https://www.op.gg/champions/kennen/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "khazix",
+    "key": "60",
+    "role": "jungle",
+    "name" : "Kha'Zix",
+    "op.gg" : "https://www.op.gg/champions/khazix/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "kindred",
+    "key": "61",
+    "role": "jungle",
+    "name" : "Kindred",
+    "op.gg" : "https://www.op.gg/champions/kindred/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "kled",
+    "key": "62",
+    "role": "top",
+    "name" : "Kled",
+    "op.gg" : "https://www.op.gg/champions/kled/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "kogmaw",
+    "key": "63",
+    "role": "bot",
+    "name" : "Kog'Maw",
+    "op.gg" : "https://www.op.gg/champions/kogmaw/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "leblanc",
+    "key": "64",
+    "role": "mid",
+    "name" : "LeBlanc",
+    "op.gg" : "https://www.op.gg/champions/leblanc/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "leesin",
+    "key": "65",
+    "role": "jungle",
+    "name" : "Lee Sin",
+    "op.gg" : "https://www.op.gg/champions/leesin/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "leona",
+    "key": "66",
+    "role": "support",
+    "name" : "Leona",
+    "op.gg" : "https://www.op.gg/champions/leona/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "lillia",
+    "key": "67",
+    "role": "jungle",
+    "name" : "Lillia",
+    "op.gg" : "https://www.op.gg/champions/lillia/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "lissandra",
+    "key": "68",
+    "role": "mid",
+    "name" : "Lissandra",
+    "op.gg" : "https://www.op.gg/champions/lissandra/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "lucian",
+    "key": "69",
+    "role": "bot",
+    "name" : "Lucian",
+    "op.gg" : "https://www.op.gg/champions/lucian/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "lulu",
+    "key": "70",
+    "role": "support",
+    "name" : "Lulu",
+    "op.gg" : "https://www.op.gg/champions/lulu/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "lux",
+    "key": "71",
+    "role": "support",
+    "name" : "Lux",
+    "op.gg" : "https://www.op.gg/champions/lux/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "malphite",
+    "key": "72",
+    "role": "top",
+    "name" : "Malphite",
+    "op.gg" : "https://www.op.gg/champions/malphite/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "malzahar",
+    "key": "73",
+    "role": "mid",
+    "name" : "Malzahar",
+    "op.gg" : "https://www.op.gg/champions/malzahar/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "maokai",
+    "key": "74",
+    "role": "jungle",
+    "name" : "Maokai",
+    "op.gg" : "https://www.op.gg/champions/maokai/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "masteryi",
+    "key": "75",
+    "role": "jungle",
+    "name" : "Master Yi",
+    "op.gg" : "https://www.op.gg/champions/masteryi/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "milio",
+    "key": "76",
+    "role": "support",
+    "name" : "Milio",
+    "op.gg" : "https://www.op.gg/champions/milio/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "missfortune",
+    "key": "77",
+    "role": "bot",
+    "name" : "Miss Fortune",
+    "op.gg" : "https://www.op.gg/champions/missfortune/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "mordekaiser",
+    "key": "78",
+    "role": "top",
+    "name" : "Mordekaiser",
+    "op.gg" : "https://www.op.gg/champions/mordekaiser/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "morgana",
+    "key": "79",
+    "role": "support",
+    "name" : "Morgana",
+    "op.gg" : "https://www.op.gg/champions/morgana/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "naafiri",
+    "key": "80",
+    "role": "mid",
+    "name" : "Naafiri",
+    "op.gg" : "https://www.op.gg/champions/naafiri/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "nami",
+    "key": "81",
+    "role": "support",
+    "name" : "Nami",
+    "op.gg" : "https://www.op.gg/champions/nami/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "nasus",
+    "key": "82",
+    "role": "top",
+    "name" : "Nasus",
+    "op.gg" : "https://www.op.gg/champions/nasus/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "nautilus",
+    "key": "83",
+    "role": "support",
+    "name" : "Nautilus",
+    "op.gg" : "https://www.op.gg/champions/nautilus/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "neeko",
+    "key": "84",
+    "role": "mid",
+    "name" : "Neeko",
+    "op.gg" : "https://www.op.gg/champions/neeko/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "nidalee",
+    "key": "85",
+    "role": "jungle",
+    "name" : "Nidalee",
+    "op.gg" : "https://www.op.gg/champions/nidalee/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "nilah",
+    "key": "86",
+    "role": "bot",
+    "name" : "Nilah",
+    "op.gg" : "https://www.op.gg/champions/nilah/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "nocturne",
+    "key": "87",
+    "role": "jungle",
+    "name" : "Nocturne",
+    "op.gg" : "https://www.op.gg/champions/nocturne/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "nunu",
+    "key": "88",
+    "role": "jungle",
+    "name" : "Nunu",
+    "op.gg" : "https://www.op.gg/champions/nunu/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "olaf",
+    "key": "89",
+    "role": "top",
+    "name" : "Olaf",
+    "op.gg" : "https://www.op.gg/champions/olaf/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "orianna",
+    "key": "90",
+    "role": "mid",
+    "name" : "Orianna",
+    "op.gg" : "https://www.op.gg/champions/orianna/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "ornn",
+    "key": "91",
+    "role": "top",
+    "name" : "Ornn",
+    "op.gg" : "https://www.op.gg/champions/ornn/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "pantheon",
+    "key": "92",
+    "role": "top",
+    "name" : "Pantheon",
+    "op.gg" : "https://www.op.gg/champions/pantheon/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "poppy",
+    "key": "93",
+    "role": "jungle",
+    "name" : "Poppy",
+    "op.gg" : "https://www.op.gg/champions/poppy/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "pyke",
+    "key": "94",
+    "role": "support",
+    "name" : "Pyke",
+    "op.gg" : "https://www.op.gg/champions/pyke/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "qiyana",
+    "key": "95",
+    "role": "mid",
+    "name" : "Qiyana",
+    "op.gg" : "https://www.op.gg/champions/qiyana/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "quinn",
+    "key": "96",
+    "role": "top",
+    "name" : "Quinn",
+    "op.gg" : "https://www.op.gg/champions/quinn/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "rakan",
+    "key": "97",
+    "role": "support",
+    "name" : "Rakan",
+    "op.gg" : "https://www.op.gg/champions/rakan/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "rammus",
+    "key": "98",
+    "role": "jungle",
+    "name" : "Rammus",
+    "op.gg" : "https://www.op.gg/champions/rammus/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "reksai",
+    "key": "99",
+    "role": "jungle",
+    "name" : "Rek'Sai",
+    "op.gg" : "https://www.op.gg/champions/reksai/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "rell",
+    "key": "100",
+    "role": "support",
+    "name" : "Rell",
+    "op.gg" : "https://www.op.gg/champions/rell/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "renata",
+    "key": "101",
+    "role": "support",
+    "name" : "Renata",
+    "op.gg" : "https://www.op.gg/champions/renata/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "renekton",
+    "key": "102",
+    "role": "top",
+    "name" : "Renekton",
+    "op.gg" : "https://www.op.gg/champions/renekton/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "rengar",
+    "key": "103",
+    "role": "jungle",
+    "name" : "Rengar",
+    "op.gg" : "https://www.op.gg/champions/rengar/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "riven",
+    "key": "104",
+    "role": "top",
+    "name" : "Riven",
+    "op.gg" : "https://www.op.gg/champions/riven/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "rumble",
+    "key": "105",
+    "role": "top",
+    "name" : "Rumble",
+    "op.gg" : "https://www.op.gg/champions/rumble/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "ryze",
+    "key": "106",
+    "role": "mid",
+    "name" : "Ryze",
+    "op.gg" : "https://www.op.gg/champions/ryze/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "samira",
+    "key": "107",
+    "role": "bot",
+    "name" : "Samira",
+    "op.gg" : "https://www.op.gg/champions/samira/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "sejuani",
+    "key": "108",
+    "role": "jungle",
+    "name" : "Sejuani",
+    "op.gg" : "https://www.op.gg/champions/sejuani/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "senna",
+    "key": "109",
+    "role": "support",
+    "name" : "Senna",
+    "op.gg" : "https://www.op.gg/champions/senna/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "seraphine",
+    "key": "110",
+    "role": "support",
+    "name" : "Seraphine",
+    "op.gg" : "https://www.op.gg/champions/seraphine/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "sett",
+    "key": "111",
+    "role": "top",
+    "name" : "Sett",
+    "op.gg" : "https://www.op.gg/champions/sett/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "shaco",
+    "key": "112",
+    "role": "jungle",
+    "name" : "Shaco",
+    "op.gg" : "https://www.op.gg/champions/shaco/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "shen",
+    "key": "113",
+    "role": "top",
+    "name" : "Shen",
+    "op.gg" : "https://www.op.gg/champions/shen/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "shyvana",
+    "key": "114",
+    "role": "jungle",
+    "name" : "Shyvana",
+    "op.gg" : "https://www.op.gg/champions/shyvana/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "swain",
+    "key": "115",
+    "role": "sylas",
+    "name" : "Swain",
+    "op.gg" : "https://www.op.gg/champions/swain/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "sylas",
+    "key": "116",
+    "role": "mid",
+    "name" : "Sylas",
+    "op.gg" : "https://www.op.gg/champions/sylas/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "syndra",
+    "key": "117",
+    "role": "mid",
+    "name" : "Syndra",
+    "op.gg" : "https://www.op.gg/champions/syndra/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "tahmkench",
+    "key": "118",
+    "role": "top",
+    "name" : "Tahm Kench",
+    "op.gg" : "https://www.op.gg/champions/tahmkench/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "taliyah",
+    "key": "119",
+    "role": "jungle",
+    "name" : "taliyah",
+    "op.gg" : "https://www.op.gg/champions/taliyah/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "talon",
+    "key": "120",
+    "role": "mid",
+    "name" : "Talon",
+    "op.gg" : "https://www.op.gg/champions/talon/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "taric",
+    "key": "121",
+    "role": "support",
+    "name" : "Taric",
+    "op.gg" : "https://www.op.gg/champions/taric/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "teemo",
+    "key": "122",
+    "role": "top",
+    "name" : "Teemo",
+    "op.gg" : "https://www.op.gg/champions/teemo/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "thresh",
+    "key": "123",
+    "role": "support",
+    "name" : "Thresh",
+    "op.gg" : "https://www.op.gg/champions/thresh/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "tristana",
+    "key": "124",
+    "role": "bot",
+    "name" : "Tristana",
+    "op.gg" : "https://www.op.gg/champions/tristana/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "trundle",
+    "key": "125",
+    "role": "jungle",
+    "name" : "Trundle",
+    "op.gg" : "https://www.op.gg/champions/trundle/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "tryndamere",
+    "key": "126",
+    "role": "top",
+    "name" : "Tryndamere",
+    "op.gg" : "https://www.op.gg/champions/tryndamere/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "twistedfate",
+    "key": "127",
+    "role": "mid",
+    "name" : "Twisted Fate",
+    "op.gg" : "https://www.op.gg/champions/twistedfate/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "twitch",
+    "key": "128",
+    "role": "bot",
+    "name" : "Twitch",
+    "op.gg" : "https://www.op.gg/champions/twitch/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "udyr",
+    "key": "129",
+    "role": "jungle",
+    "name" : "Udyr",
+    "op.gg" : "https://www.op.gg/champions/udyr/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "urgot",
+    "key": "130",
+    "role": "top",
+    "name" : "Urgot",
+    "op.gg" : "https://www.op.gg/champions/urgot/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "varus",
+    "key": "131",
+    "role": "bot",
+    "name" : "Varus",
+    "op.gg" : "https://www.op.gg/champions/varus/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "vayne",
+    "key": "132",
+    "role": "bot",
+    "name" : "Vayne",
+    "op.gg" : "https://www.op.gg/champions/vayne/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "veigar",
+    "key": "133",
+    "role": "mid",
+    "name" : "Veigar",
+    "op.gg" : "https://www.op.gg/champions/veigar/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "velkoz",
+    "key": "134",
+    "role": "support",
+    "name" : "Vel'Koz",
+    "op.gg" : "https://www.op.gg/champions/velkoz/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "vex",
+    "key": "135",
+    "role": "mid",
+    "name" : "Vex",
+    "op.gg" : "https://www.op.gg/champions/vex/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "vi",
+    "key": "136",
+    "role": "jungle",
+    "name" : "Vi",
+    "op.gg" : "https://www.op.gg/champions/vi/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "viego",
+    "key": "137",
+    "role": "jungle",
+    "name" : "Veigo",
+    "op.gg" : "https://www.op.gg/champions/viego/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "viktor",
+    "key": "138",
+    "role": "mid",
+    "name" : "Viktor",
+    "op.gg" : "https://www.op.gg/champions/viktor/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "vladimir",
+    "key": "139",
+    "role": "mid",
+    "name" : "Vladimir",
+    "op.gg" : "https://www.op.gg/champions/vladimir/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "volibear",
+    "key": "140",
+    "role": "top",
+    "name" : "Volibear",
+    "op.gg" : "https://www.op.gg/champions/volibear/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "warwick",
+    "key": "141",
+    "role": "jungle",
+    "name" : "Warwick",
+    "op.gg" : "https://www.op.gg/champions/warwick/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "wukong",
+    "key": "142",
+    "role": "jungle",
+    "name" : "Wukong",
+    "op.gg" : "https://www.op.gg/champions/monkeyking/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "xayah",
+    "key": "143",
+    "role": "bot",
+    "name" : "Xayah",
+    "op.gg" : "https://www.op.gg/champions/xayah/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "xerath",
+    "key": "144",
+    "role": "support",
+    "name" : "Xerath",
+    "op.gg" : "https://www.op.gg/champions/xerath/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "xinzhao",
+    "key": "145",
+    "role": "jungle",
+    "name" : "Xin Zhao",
+    "op.gg" : "https://www.op.gg/champions/xinzhao/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "yasuo",
+    "key": "146",
+    "role": "mid",
+    "name" : "Yasuo",
+    "op.gg" : "https://www.op.gg/champions/yasuo/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "yone",
+    "key": "147",
+    "role": "mid",
+    "name" : "Yone",
+    "op.gg" : "https://www.op.gg/champions/yone/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "yorick",
+    "key": "148",
+    "role": "top",
+    "name" : "Yorick",
+    "op.gg" : "https://www.op.gg/champions/yorick/build/top?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "yuumi",
+    "key": "149",
+    "role": "support",
+    "name" : "Yuumi",
+    "op.gg" : "https://www.op.gg/champions/yuumi/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "zac",
+    "key": "150",
+    "role": "jungle",
+    "name" : "Zac",
+    "op.gg" : "https://www.op.gg/champions/zac/build/jungle?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "zed",
+    "key": "151",
+    "role": "mid",
+    "name" : "Zed",
+    "op.gg" : "https://www.op.gg/champions/zed/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "zeri",
+    "key": "152",
+    "role": "bot",
+    "name" : "Zeri",
+    "op.gg" : "https://www.op.gg/champions/zeri/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "ziggs",
+    "key": "153",
+    "role": "bot",
+    "name" : "Ziggs",
+    "op.gg" : "https://www.op.gg/champions/ziggs/build/adc?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "zilean",
+    "key": "154",
+    "role": "support",
+    "name" : "Zilean",
+    "op.gg" : "https://www.op.gg/champions/zilean/build/support?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "zoe",
+    "key": "155",
+    "role": "mid",
+    "name" : "Zoe",
+    "op.gg" : "https://www.op.gg/champions/zoe/build/mid?region=global&tier=emerald_plus"
+  },
+  {
+    "id" : "zyra",
+    "key": "156",
+    "role": "support",
+    "name" : "Zyra",
+    "op.gg" : "https://www.op.gg/champions/zyra/build/support?region=global&tier=emerald_plus"
+  }
+  ]
