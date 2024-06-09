@@ -75,7 +75,7 @@ def beginner(textParam):
             text2 = input().lower()
 
         #Stopping the function if any of the below words are in the text
-        endWords = sorted(["done","thank", "enough", "no"])
+        endWords = sorted(["done", "thank", "enough", "no","goodbye", "bye", "exit", "quit", "stop", "finish", "over", "close", "end", "farewell", "later", "adios", "ciao", "see you", "ta-ta"])
         for i in endWords:
             if text2.find(i)+1:
                 print("It was my pleasure interacting with you. Thanks")
