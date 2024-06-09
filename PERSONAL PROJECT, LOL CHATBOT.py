@@ -41,7 +41,7 @@ def main():
     elif "exp" in text:
         while True:
             champ = input("Please type the champion name that you want to know about: ")
-            print(f"Here is the site in which you can find all the builds for {champ}: https://www.op.gg/champions/{champ}/build/top?region=global&tier=emerald_plus")
+            print(f"Here is the site in which you can find all the builds for {champ}: https://www.op.gg/champions/{champ}/build/")
             confirmation = input("Do you want information on any other champs(Yes/No): ").lower()
             if confirmation == "yes":
                 continue
@@ -93,7 +93,7 @@ def beginnerRec(role,reccomended):
     recommendedChamp = input()
     #Using a while loop to print op.gg link for a particular champ in the recommended list
     while recommendedChamp in dict[reccomended]:
-        print(f"Here is the site in which you can find all the builds for {recommendedChamp}: https://www.op.gg/champions/{recommendedChamp}/build/top?region=global&tier=emerald_plus")
+        print(f"Here is the site in which you can find all the builds for {recommendedChamp}: https://www.op.gg/champions/{recommendedChamp}/build/")
         check = input(f"Any other champs you want to know about in {role} lane?(yes/no):").lower()
         if check == "yes":
             recommendedChamp = input(f"whom do you want to learn more about {dict[reccomended]}: ")
