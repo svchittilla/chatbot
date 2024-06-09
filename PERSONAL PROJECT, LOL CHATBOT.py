@@ -3,7 +3,7 @@ f = open('champions.json')
 champions = json.load(f)
 
 #Creating a list of all champion names. Used later in code, to find out the index of champion in champions.json
-champNames = [i["id"] for i in champions]
+# champNames = [i["id"] for i in champions] >> Not required as I am directly appending the site's address
 # Initialising a dictionary for some terms
 dict = {
         "beginner" : "League of legends is a 5 vs 5 MOBA game, you have 5 roles which you can play as, namely : TOP, MID, JUNGLE, BOT, SUPPORT. Please enter any one of the role :)",
@@ -45,9 +45,9 @@ def main():
     elif "exp" in text:
         while True:
             champ = input("Please type the champion name that you want to know about: ")
-            index = champNames.index(champ)
-            champData = champions[index]["op.gg"]
-            print(f"Here is the site in which you can find all the builds for {champ}: {champData}")
+            # index = champNames.index(champ)
+            # champData = champions[index]["op.gg"]
+            print(f"Here is the site in which you can find all the builds for {champ}: https://www.op.gg/champions/{champ}/build/top?region=global&tier=emerald_plus")
             confirmation = input("Do you want information on any other champs(Yes/No): ").lower()
             if confirmation == "yes":
                 continue
@@ -56,13 +56,13 @@ def main():
                 break
 
 
-#Defining a funciton for beginners
+#Defining a funciton for beginners reply
 
-def beginner(txt):
+def beginner(textParam):
     checker = 0
     print(dict["beginner"])
     text2 = input().lower()
-    while "beginner" in txt:
+    while "beginner" in textParam:
         if "top" in text2 or "mid" in text2 or "jungle" in text2 or "bot" in text2 or "support" in text2:
             if "top" in text2:
                 beginnerRec("top","reccomendedTopBeg")
@@ -83,7 +83,7 @@ def beginner(txt):
         #Stopping the program if any of the below words are in the text
         endWords = sorted(["done","thank", "enough", "no"])
         for i in endWords:
-            if i in text2.split():
+            if text2.find(i)+1:
                 print("It was my pleasure interacting with you. Thanks")
                 checker = 1
                 break
@@ -96,15 +96,15 @@ def beginner(txt):
 
 def beginnerRec(role,reccomended):
     print(dict[role],"recommended champions are",dict[reccomended], "Please select the champion given in the list")
-    champ = input()
+    recommendedChamp = input()
     #Using a while loop to print champData for a particular champ in the recommended list
-    while champ in dict[reccomended]:
-        index = champNames.index(champ)
-        champData = champions[index]["op.gg"]
-        print(f"Here is the site in which you can find all the builds for {champ}: {champData}")
+    while recommendedChamp in dict[reccomended]:
+        # index = champNames.index(champ)
+        # champData = champions[index]["op.gg"]
+        print(f"Here is the site in which you can find all the builds for {recommendedChamp}: https://www.op.gg/champions/{recommendedChamp}/build/top?region=global&tier=emerald_plus")
         check = input(f"Any other champs you want to know about in {role} lane?(yes/no):").lower()
         if check == "yes":
-            champ = input(f"whom do you want to learn more about {dict[reccomended]}: ")
+            recommendedChamp = input(f"whom do you want to learn more about {dict[reccomended]}: ")
         else:
             print("Any other lanes you want to know about")
             break
