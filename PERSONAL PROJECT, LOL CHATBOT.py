@@ -1,9 +1,5 @@
-import json
-f = open('champions.json')
-champions = json.load(f)
+# the champions json file is not required now.
 
-#Creating a list of all champion names. Used later in code, to find out the index of champion in champions.json
-# champNames = [i["id"] for i in champions] >> Not required as I am directly appending the site's address
 # Initialising a dictionary for some terms
 dict = {
         "beginner" : "League of legends is a 5 vs 5 MOBA game, you have 5 roles which you can play as, namely : TOP, MID, JUNGLE, BOT, SUPPORT. Please enter any one of the role :)",
@@ -45,8 +41,6 @@ def main():
     elif "exp" in text:
         while True:
             champ = input("Please type the champion name that you want to know about: ")
-            # index = champNames.index(champ)
-            # champData = champions[index]["op.gg"]
             print(f"Here is the site in which you can find all the builds for {champ}: https://www.op.gg/champions/{champ}/build/top?region=global&tier=emerald_plus")
             confirmation = input("Do you want information on any other champs(Yes/No): ").lower()
             if confirmation == "yes":
@@ -80,7 +74,7 @@ def beginner(textParam):
             print("Please specify one of the following roles: top, mid, jungle, bot, support")
             text2 = input().lower()
 
-        #Stopping the program if any of the below words are in the text
+        #Stopping the function if any of the below words are in the text
         endWords = sorted(["done","thank", "enough", "no"])
         for i in endWords:
             if text2.find(i)+1:
@@ -97,10 +91,8 @@ def beginner(textParam):
 def beginnerRec(role,reccomended):
     print(dict[role],"recommended champions are",dict[reccomended], "Please select the champion given in the list")
     recommendedChamp = input()
-    #Using a while loop to print champData for a particular champ in the recommended list
+    #Using a while loop to print op.gg link for a particular champ in the recommended list
     while recommendedChamp in dict[reccomended]:
-        # index = champNames.index(champ)
-        # champData = champions[index]["op.gg"]
         print(f"Here is the site in which you can find all the builds for {recommendedChamp}: https://www.op.gg/champions/{recommendedChamp}/build/top?region=global&tier=emerald_plus")
         check = input(f"Any other champs you want to know about in {role} lane?(yes/no):").lower()
         if check == "yes":
