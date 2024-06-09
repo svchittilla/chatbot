@@ -101,5 +101,5 @@ def beginnerRec(role,reccomended):
             print("Any other lanes you want to know about")
             break
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     main()
